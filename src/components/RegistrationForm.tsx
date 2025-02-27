@@ -1,3 +1,6 @@
+"use client"
+
+
 import { useState } from "react";
 import CloudinaryUploader from "./CloudinaryUploader";
 import ProductForm from "./ProductForm";
